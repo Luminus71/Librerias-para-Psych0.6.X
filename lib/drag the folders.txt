@@ -1,0 +1,5 @@
+after you draged the folders to you HaxeToolkit folder, you will need to do this in you terminal CMD:
+
+haxelib run flixel-tools setup
+
+haxelib run lime setup (optional)
